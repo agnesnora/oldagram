@@ -79,3 +79,4 @@ function handleLikeClick(username) {
   })[0];
   targetPostObj.likes++;
 }
+
